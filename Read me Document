@@ -1,0 +1,3 @@
+Added CF template which will help in creating VPC, EC2, ELB, and its extended configurations.
+Please review the template before using it.
+It only supports US Regions
